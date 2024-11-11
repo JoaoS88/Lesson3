@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\proj\\Lesson3\\Lesson3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99491633-59DA-4187-A55B-B80CDC84CA4B}|Module3_Task4\\Module3_Task4.vcxproj|J:\\proj\\Lesson3\\Lesson3\\Module3_Task4\\oddPyramidGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99491633-59DA-4187-A55B-B80CDC84CA4B}|Module3_Task4\\Module3_Task4.vcxproj|solutionrelative:Module3_Task4\\oddPyramidGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C542C5-5495-4824-BCF4-44B26047A960}|Module3_Task3\\Module3_Task3.vcxproj|J:\\proj\\Lesson3\\Lesson3\\Module3_Task3\\generateAddCheckRandomNums.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92C542C5-5495-4824-BCF4-44B26047A960}|Module3_Task3\\Module3_Task3.vcxproj|solutionrelative:Module3_Task3\\generateAddCheckRandomNums.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFF7EB5-FDF4-4FE8-837E-080E12BC2320}|Module3_Task2\\Module3_Task2.vcxproj|J:\\proj\\Lesson3\\Lesson3\\Module3_Task2\\generateAndCheckRandomNum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BFF7EB5-FDF4-4FE8-837E-080E12BC2320}|Module3_Task2\\Module3_Task2.vcxproj|solutionrelative:Module3_Task2\\generateAndCheckRandomNum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCEB429-F473-4B0A-A38B-728AD01F4598}|Module3_Task1\\Module3_Task1.vcxproj|J:\\proj\\Lesson3\\Lesson3\\Module3_Task1\\functionManipulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDCEB429-F473-4B0A-A38B-728AD01F4598}|Module3_Task1\\Module3_Task1.vcxproj|solutionrelative:Module3_Task1\\functionManipulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "generateAndCheckRandomNum.cpp",
+              "DocumentMoniker": "J:\\proj\\Lesson3\\Lesson3\\Module3_Task2\\generateAndCheckRandomNum.cpp",
+              "RelativeDocumentMoniker": "Module3_Task2\\generateAndCheckRandomNum.cpp",
+              "ToolTip": "J:\\proj\\Lesson3\\Lesson3\\Module3_Task2\\generateAndCheckRandomNum.cpp",
+              "RelativeToolTip": "Module3_Task2\\generateAndCheckRandomNum.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T18:11:59.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "oddPyramidGenerator.cpp",
+              "DocumentMoniker": "J:\\proj\\Lesson3\\Lesson3\\Module3_Task4\\oddPyramidGenerator.cpp",
+              "RelativeDocumentMoniker": "Module3_Task4\\oddPyramidGenerator.cpp",
+              "ToolTip": "J:\\proj\\Lesson3\\Lesson3\\Module3_Task4\\oddPyramidGenerator.cpp",
+              "RelativeToolTip": "Module3_Task4\\oddPyramidGenerator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T18:22:16.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "generateAddCheckRandomNums.cpp",
+              "DocumentMoniker": "J:\\proj\\Lesson3\\Lesson3\\Module3_Task3\\generateAddCheckRandomNums.cpp",
+              "RelativeDocumentMoniker": "Module3_Task3\\generateAddCheckRandomNums.cpp",
+              "ToolTip": "J:\\proj\\Lesson3\\Lesson3\\Module3_Task3\\generateAddCheckRandomNums.cpp",
+              "RelativeToolTip": "Module3_Task3\\generateAddCheckRandomNums.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T18:18:10.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "functionManipulation.cpp",
+              "DocumentMoniker": "J:\\proj\\Lesson3\\Lesson3\\Module3_Task1\\functionManipulation.cpp",
+              "RelativeDocumentMoniker": "Module3_Task1\\functionManipulation.cpp",
+              "ToolTip": "J:\\proj\\Lesson3\\Lesson3\\Module3_Task1\\functionManipulation.cpp",
+              "RelativeToolTip": "Module3_Task1\\functionManipulation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T18:08:06.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
